@@ -15,6 +15,10 @@ This is a simple bar indicator for use on linux that will allow you to track tim
 
 *Python 3
 
+### Help
+
+*Change the logfolder (use absolute path) to indicate somewhere else to save your exported timed instances
+
 ## Authors
 
 Stesha Doku, MD
