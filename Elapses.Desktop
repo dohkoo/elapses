@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=python3 "PUT ABSOLUTE PATH TO elapses.py HERE"
+Name=Elapses
+Comment=Stop Watch
+Icon="PUT ABSOLUTE PATH TO hourglass.svg HERE"
